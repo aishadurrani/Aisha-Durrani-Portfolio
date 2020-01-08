@@ -1,0 +1,302 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  height: 280px;
+  width: 380px;
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+}
+
+
+#buttons {
+
+  text-align: center;
+}
+
+
+#myCarousel {
+  
+  left: auto;
+
+
+}
+
+#pic1 {
+
+  height: 240px;
+  width: 340px;
+
+ 
+}
+
+
+#pic2 {
+
+  height: 240px;
+  width: 340px;
+ 
+}
+
+#pic3 {
+
+  height: 240px;
+  width: 340px;
+  
+}
+
+#pic4 {
+
+  height: 240px;
+  width: 340px;
+  
+}
+
+#pic5 {
+
+  height: 240px;
+  width: 340px;
+  
+}
+
+#pic6 {
+
+  height: 240px;
+  width: 340px;
+  
+}
+
+.icon {
+
+ 
+  height: 50px;
+  width: 50px;
+  list-style: none;
+  display:inline;  
+  float:center;
+  position: relative;
+
+}
+
+
+
+@media only screen and (max-width : 480px) {
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  height: 280px;
+  width: 380px;
+  
+  color: #26a69a;
+}
+
+.parallax-container {
+
+
+  min-height: 130px;
+  line-height: 0;
+
+  color: rgba(255,255,255,.9);
+  width: 100%;
+}
+  .parallax-container .section {
+    width: 100%;
+    height: 130px;
+   
+}
+
+
+#buttons {
+
+  text-align: center;
+  width: 100%;
+  
+}
+
+
+#myCarousel {
+  
+  left: auto;
+
+
+}
+
+#pic1 {
+
+  height: 240px;
+  width: 340px;
+ 
+
+ 
+}
+
+
+#pic2 {
+
+  height: 240px;
+  width: 340px;
+
+ 
+}
+
+#pic3 {
+
+  height: 240px;
+ width: 340px;
+
+  
+}
+
+#pic4 {
+
+  height: 240px;
+  width: 340px;
+
+  
+}
+
+#pic5 {
+
+  height: 240px;
+  width: 340px;
+
+  
+}
+
+#pic6 {
+
+  height: 240px;
+  width: 340px;
+
+  
+}
+
+.icon {
+
+ 
+  height: 50px;
+  width: 50px;
+
+   
+    
+
+}
+
+#footericon {
+
+ position: relative;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ float: center;
+ margin-right: 30%;
+ margin-left: 20%;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.img-responsive {
+
+  position: relative;
+  width: 100%;
+}
+
+
+
+
+#main {
+
+  min-height: 100vh;
+
+
+
+ 
+}
+
+h1 {
+
+font-size: 50px;
+}
+
+
+
+
+  
+}
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+
+
+
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+
+
+footer.page-footer {
+  margin: 0;
+}
